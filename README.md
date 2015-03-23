@@ -1,2 +1,2 @@
-# blog_src
+# CJP's blog source files 
 person blog src
